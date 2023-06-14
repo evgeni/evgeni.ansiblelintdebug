@@ -1,0 +1,11 @@
+namespace: "evgeni"
+name: "ansiblelintdebug"
+description: show me some bugs
+authors:
+  - "Evgeni Golov <evgeni@golov.de>"
+version: "1.0.0"
+license:
+  - "GPL-3.0-or-later"
+tags:
+  - bug
+readme: "README.md"
